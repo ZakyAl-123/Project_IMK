@@ -1,0 +1,6 @@
+{
+  "name": "Desaine",
+  "description": "Ekosistem & Marketplace Desain Digital Terbesar di Indonesia - Jual Beli, Custom Order, Kompetisi, dan AI-Powered Copilot",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
